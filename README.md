@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="src/1.gif" width="100%" height="auto" max-height="30%">
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=280&section=header&text=XTM26&fontSize=90&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn"/>
 

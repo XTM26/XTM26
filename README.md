@@ -135,6 +135,8 @@
 
 </div>
 
+![snake gif](https://github.com/XTM26/XTM26/blob/output/github-snake-dark.svg)
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>

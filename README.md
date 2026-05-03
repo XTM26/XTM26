@@ -57,6 +57,10 @@
 
 ---
 
+![snake gif](https://github.com/XTM26/XTM26/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 <div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+GitHub+Stats" />

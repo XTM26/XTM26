@@ -147,16 +147,15 @@
 <a href="https://paypal.me/anonymous999tm">
   <img src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
 </a>
-
 </div>
 
----
-
-<picture>
+<div align="center>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
   <img alt="snake gif" src="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 ---
 

@@ -11,7 +11,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117)](https://github.com/XTM26)
 [![GitHub followers](https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/XTM26?tab=followers)
-[![Stars](https://img.shields.io/github/stars/XTM26?label=STARS&style=for-the-badge&color=f1c40f&labelColor=0d1117&logo=github)](https://github.com/XTM26)
+<a href="https://github.com/XTM26/stargazers">
+    <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f5a623" />
+ </a>
 
 </div>
 

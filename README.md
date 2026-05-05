@@ -28,7 +28,7 @@
 
 ## ◈ About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=99999&color=64748B&center=false&vCenter=false&multiline=true&width=750&height=100&lines=Security+researcher+%26+firmware+developer+focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=9999&color=64748B&center=true&vCenter=false&multiline=true&width=750&height=100&lines=Security+researcher+%26+firmware+developer+focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
 
 </div>
 

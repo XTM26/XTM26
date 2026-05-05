@@ -9,17 +9,17 @@
 
 <br/><br/>
 
-<a href="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117">
-<img src="https://github.com/XTM26"/>
+<a href="https://github.com/XTM26">
+  <img src="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-<a href="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github">
-<img src="https://github.com/XTM26?tab=followers" />
+<a href="https://github.com/XTM26?tab=followers">
+  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
 </a>
 
-<a href="https://github.com/XTM26/stargazers">
-    <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f5a623" />
- </a>
+<a href="https://github.com/XTM26?tab=repositories">
+  <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f5a623"/>
+</a>
 
 </div>
 
@@ -87,6 +87,22 @@
 
 <div align="left">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=450&height=40&lines=%E2%97%88+3D+Commit+Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=XTM26&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/XTM26/XTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="left">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=450&height=40&lines=%E2%97%88+Contribution+Graph" />
 
 <br/>
@@ -143,7 +159,6 @@
 
 </div>
 
-
 ---
 
 <div align="left">
@@ -155,19 +170,19 @@
 <a href="https://paypal.me/anonymous999tm">
   <img src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
 </a>
+
 </div>
 
 ---
 
-<div align="center>
+<div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
+    <img alt="snake gif" src="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
-

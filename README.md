@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f172a,100:0d1117&height=300&section=header&text=XTM26&fontSize=100&fontColor=e11d48&fontAlignY=45&stroke=e11d48&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="img/1.gif" width="100%" height="auto"/>
 
-</div>
-
-<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f172a,100:0d1117&height=280&section=header&text=XTM26&fontSize=95&fontColor=e11d48&fontAlignY=45&stroke=e11d48&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=500&color=94A3B8&center=false&vCenter=true&width=750&height=40&lines=%5B%2B%5D+Offensive+Security+Researcher;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer;%5B%2B%5D+IoT+%26+Hardware+Hacker;%5B%2B%5D+Open+Source+Tool+Builder;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=500&color=94A3B8&center=true&vCenter=true&width=750&height=40&lines=%5B%2B%5D+Offensive+Security+Researcher;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer;%5B%2B%5D+IoT+%26+Hardware+Hacker;%5B%2B%5D+Open+Source+Tool+Builder;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
 
 <br/>
 
@@ -16,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/XTM26?tab=followers">
-  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=94a3b8&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=64748b&labelColor=0d1117&logo=github"/>
 </a>
 <a href="https://github.com/XTM26?tab=repositories">
   <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f59e0b&labelColor=0d1117"/>
@@ -28,7 +26,7 @@
 
 <div align="left">
 
-### `◈ About Me`
+## ◈ About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999&color=64748B&center=false&vCenter=false&multiline=true&width=750&height=100&lines=Security+researcher+%26+firmware+developer+focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
 
@@ -38,25 +36,25 @@
 
 <div align="left">
 
-### `◈ Tech Stack`
+## ◈ Tech Stack
 
 <br/>
 
-**▸ Languages**
+▸ **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,haskell,php,lua,bash,crystal,perl&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,haskell,php,lua,bash,crystal&perline=10&theme=dark" />
 
 <br/>
 
-**▸ Frameworks & Tools**
+▸ **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nginx,cloudflare,docker,sqlite,mysql,postgresql,npm&perline=10&theme=dark" />
 
 <br/>
 
-**▸ Platforms & Hardware**
+▸ **Platforms & Hardware**
 
 <img src="https://skillicons.dev/icons?i=linux,kali,arch,windows,raspberrypi,arduino,pwsh,git&perline=10&theme=dark" />
 
@@ -66,16 +64,16 @@
 
 <div align="left">
 
-### `◈ GitHub Stats`
+## ◈ GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=XTM26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=94a3b8" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=XTM26&theme=tokyonight&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="49%"/>
 
 </div>
 
@@ -83,11 +81,11 @@
 
 <div align="left">
 
-### `◈ Contribution Graph`
+## ◈ Contribution Graph
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&theme=tokyo-night&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
 
 </div>
 
@@ -95,7 +93,7 @@
 
 <div align="left">
 
-### `◈ 3D Contribution`
+## ◈ 3D Contribution
 
 <br/>
 
@@ -107,7 +105,7 @@
 
 <div align="left">
 
-### `◈ Profile Summary`
+## ◈ Profile Summary
 
 <br/>
 
@@ -128,7 +126,7 @@
 
 <div align="left">
 
-### `◈ Trophies`
+## ◈ Trophies
 
 <br/>
 
@@ -140,7 +138,7 @@
 
 <div align="left">
 
-### `◈ Quote of the Day`
+## ◈ Quote of the Day
 
 <br/>
 
@@ -152,7 +150,7 @@
 
 <div align="left">
 
-### `◈ Support Me`
+## ◈ Support Me
 
 <br/>
 

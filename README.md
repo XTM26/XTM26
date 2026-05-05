@@ -2,7 +2,7 @@
 
 <img src="img/1.gif" width="100%" height="auto"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f172a,100:0d1117&height=280&section=header&text=XTM26&fontSize=95&fontColor=e11d48&fontAlignY=45&stroke=e11d48&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=150&section=header&text=XTM26&fontSize=40&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <br/>
 

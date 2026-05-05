@@ -68,24 +68,24 @@
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="49%"/>
-
-</div>
-
----
-
-<div align="left">
-
-## ◈ Contribution Graph
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 

@@ -1,24 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f172a,100:0d1117&height=300&section=header&text=XTM26&fontSize=100&fontColor=e11d48&fontAlignY=45&stroke=e11d48&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
+
+</div>
+
 <div align="left">
 
-<img src="img/1.gif" width="100%" height="auto" max-height="30%">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=280&section=header&text=XTM26&fontSize=90&fontColor=ff0000&fontAlignY=45&stroke=ff0000&strokeWidth=2&desc=◈%20Cyber%20Security%20◈%20Ethical%20Hacker%20◈%20Firmware%20Dev%20◈&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=500&color=94A3B8&center=false&vCenter=true&width=750&height=40&lines=%5B%2B%5D+Offensive+Security+Researcher;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer;%5B%2B%5D+IoT+%26+Hardware+Hacker;%5B%2B%5D+Open+Source+Tool+Builder;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=500&color=58A6FF&center=false&vCenter=false&width=750&height=45&lines=%5B%2B%5D+Offensive+Security+Researcher;%5B%2B%5D+Firmware+%26+Embedded+Systems+Engineer;%5B%2B%5D+IoT+%26+Hardware+Hacker;%5B%2B%5D+Open+Source+Tool+Builder;%5B%2B%5D+Always+learning%2C+always+breaking+things.+%E2%9A%A1" />
-
-<br/><br/>
 
 <a href="https://github.com/XTM26">
-  <img src="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge&labelColor=0d1117"/>
 </a>
-
 <a href="https://github.com/XTM26?tab=followers">
-  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=94a3b8&labelColor=0d1117&logo=github"/>
 </a>
-
 <a href="https://github.com/XTM26?tab=repositories">
-  <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f5a623"/>
+  <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f59e0b&labelColor=0d1117"/>
 </a>
 
 </div>
@@ -27,11 +28,9 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+About+Me" />
+### `◈ About Me`
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=8B949E&center=false&vCenter=false&multiline=true&width=750&height=110&lines=Security+researcher+%26+firmware+developer+focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=99999&color=64748B&center=false&vCenter=false&multiline=true&width=750&height=100&lines=Security+researcher+%26+firmware+developer+focused+on+offensive+security%2C;low-level+programming%2C+and+embedded+systems.;Currently+working+on+firmware+analysis+%26+exploit+development.;Deep-diving+into+reverse+engineering+%26+IoT+security." />
 
 </div>
 
@@ -39,25 +38,25 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Tech+Stack" />
+### `◈ Tech Stack`
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=58A6FF&center=false&vCenter=false&width=200&height=28&lines=%E2%96%B8+Languages" />
+**▸ Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,crystal,golang&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,ruby,dart,perl,java,golang,rust&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,haskell,php,lua,rust,bash&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,haskell,php,lua,bash,crystal,perl&perline=10&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=58A6FF&center=false&vCenter=false&width=260&height=28&lines=%E2%96%B8+Frameworks+%26+Tools" />
+**▸ Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nginx,cloudflare,docker,sqlite,mysql,postgresql,npm&perline=10&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=58A6FF&center=false&vCenter=false&width=270&height=28&lines=%E2%96%B8+Platforms+%26+Hardware" />
+**▸ Platforms & Hardware**
 
 <img src="https://skillicons.dev/icons?i=linux,kali,arch,windows,raspberrypi,arduino,pwsh,git&perline=10&theme=dark" />
 
@@ -67,19 +66,16 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+GitHub+Stats" />
+### `◈ GitHub Stats`
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=XTM26&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=XTM26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=94a3b8" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=XTM26&theme=tokyonight&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=XTM26&theme=dark&hide_border=false" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="49%"/>
 
 </div>
 
@@ -87,11 +83,19 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=450&height=40&lines=%E2%97%88+3D+Commit+Stats" />
+### `◈ Contribution Graph`
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=XTM26&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&theme=tokyo-night&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
+
+</div>
+
+---
+
+<div align="left">
+
+### `◈ 3D Contribution`
 
 <br/>
 
@@ -103,31 +107,7 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=450&height=40&lines=%E2%97%88+Contribution+Graph" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=false&area_color=58a6ff&hide_border=false&radius=8" width="100%"/>
-
-</div>
-
----
-
-<div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Trophies" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=XTM26&theme=tokyonight&no-frame=false&column=4&margin-w=6&margin-h=6" width="100%"/>
-
-</div>
-
----
-
-<div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=400&height=40&lines=%E2%97%88+Profile+Summary" />
+### `◈ Profile Summary`
 
 <br/>
 
@@ -135,11 +115,8 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTM26&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XTM26&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTM26&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XTM26&theme=tokyonight" width="49%"/>
 
 <br/>
 
@@ -151,7 +128,19 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=500&height=40&lines=%E2%97%88+Quote+of+the+Day" />
+### `◈ Trophies`
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=XTM26&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+---
+
+<div align="left">
+
+### `◈ Quote of the Day`
 
 <br/>
 
@@ -163,12 +152,12 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=99999&color=FF7B72&center=false&vCenter=false&width=300&height=40&lines=%E2%97%88+Support+Me" />
+### `◈ Support Me`
 
 <br/>
 
 <a href="https://paypal.me/anonymous999tm">
-  <img src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PayPal-Support%20Me-e11d48?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -183,6 +172,4 @@
   </picture>
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>

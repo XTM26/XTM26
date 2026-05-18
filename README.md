@@ -10,14 +10,14 @@
 
 <br/>
 
-<a href="https://github.com/XTM26">
-  <img src="https://komarev.com/ghpvc/?username=XTM26&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge&labelColor=0d1117"/>
+<a href="https://github.com/SpectreX26999">
+  <img src="https://komarev.com/ghpvc/?username=SpectreX26999&label=PROFILE%20VIEWS&color=e11d48&style=for-the-badge&labelColor=0d1117"/>
 </a>
-<a href="https://github.com/XTM26?tab=followers">
-  <img src="https://img.shields.io/github/followers/XTM26?label=FOLLOWERS&style=for-the-badge&color=64748b&labelColor=0d1117&logo=github"/>
+<a href="https://github.com/SpectreX26999?tab=followers">
+  <img src="https://img.shields.io/github/followers/SpectreX26999?label=FOLLOWERS&style=for-the-badge&color=64748b&labelColor=0d1117&logo=github"/>
 </a>
-<a href="https://github.com/XTM26?tab=repositories">
-  <img src="https://img.shields.io/github/stars/XTM26?style=for-the-badge&logo=apachespark&logoColor=white&color=f59e0b&labelColor=0d1117"/>
+<a href="https://github.com/SpectreX26999?tab=repositories">
+  <img src="https://img.shields.io/github/stars/SpectreX26999?style=for-the-badge&logo=apachespark&logoColor=white&color=f59e0b&labelColor=0d1117"/>
 </a>
 
 </div>
@@ -76,18 +76,18 @@ Currently working on firmware analysis & exploit development — deep-diving int
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=SpectreX26999&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e11d48&text_color=94a3b8&icon_color=f59e0b" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=XTM26&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpectreX26999&hide_border=true&background=0d1117&ring=e11d48&fire=f59e0b&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=0d1117" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=XTM26&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SpectreX26999&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e11d48&text_color=94a3b8" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XTM26&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpectreX26999&bg_color=0d1117&color=94a3b8&line=e11d48&point=f59e0b&area=true&area_color=e11d48&hide_border=true&radius=6" width="100%"/>
     </td>
   </tr>
 </table>
@@ -102,7 +102,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/XTM26/XTM26/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/SpectreX26999/SpectreX26999/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -114,24 +114,24 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTM26&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpectreX26999&theme=tokyonight" width="100%"/>
 
 <br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XTM26&theme=tokyonight" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpectreX26999&theme=tokyonight" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XTM26&theme=tokyonight" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpectreX26999&theme=tokyonight" width="100%"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XTM26&theme=tokyonight&utcOffset=7" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpectreX26999&theme=tokyonight&utcOffset=7" width="100%"/>
 
 </div>
 
@@ -143,7 +143,7 @@ Currently working on firmware analysis & exploit development — deep-diving int
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=XTM26&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SpectreX26999&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -169,10 +169,10 @@ Let's connect and be a friend!
 
 <br/>
 
-<a href="https://instagram.com/xtm26" target="_blank">
+<a href="https://instagram.com/SpectreX26999" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0e0e0e?logo=instagram&logoColor=ff0000" height="25" alt="Instagram"/>
 </a>
-<a href="https://t.me/MatrixTM26" target="_blank">
+<a href="https://t.me/MatriSpectreX26999" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0e0e0e?logo=telegram&logoColor=004ef6" height="25" alt="Telegram"/>
 </a>
 <a href="https://facebook.com/mau.x.99926" target="_blank">
@@ -191,10 +191,10 @@ If this project helps, you can support me here:
 
 <br/>
 
-<a href="https://ko-fi.com/matrixtm26" target="_blank">
+<a href="https://ko-fi.com/matriSpectreX26999" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="20" alt="Support me on Ko-fi"/>
 </a>
-<a href="https://trakteer.id/matrixtm26" target="_blank">
+<a href="https://trakteer.id/matriSpectreX26999" target="_blank">
   <img src="https://img.shields.io/badge/Support-Trakteer-orange" height="20" alt="Support me on Trakteer"/>
 </a>
 
@@ -204,9 +204,9 @@ If this project helps, you can support me here:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
-    <img alt="snake gif" src="https://raw.githubusercontent.com/XTM26/XTM26/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpectreX26999/SpectreX26999/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpectreX26999/SpectreX26999/output/github-contribution-grid-snake.svg">
+    <img alt="snake gif" src="https://raw.githubusercontent.com/SpectreX26999/SpectreX26999/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
